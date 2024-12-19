@@ -1,0 +1,10 @@
+{
+    "domain": "network_latency",
+    "name": "Network Latency",
+    "version": "1.0.0",
+    "documentation": "https://github.com/Gouryella/ha_network_latency",
+    "codeowners": ["@Gouryella"],
+    "requirements": ["ping3"],
+    "config_flow": true
+  }
+  
